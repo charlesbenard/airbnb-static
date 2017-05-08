@@ -15,7 +15,7 @@
   font-size: 30px;
   letter-spacing: 20px;
   transition: color 0.5s ease;
-}
-#footer a:hover{
-  color: $red;
+  &:hover {
+    color: $red;
+  }
 }
